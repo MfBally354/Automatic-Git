@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class GitAutoPush {
+public class git {
     
     // ====== WARNA ======
     private static final String BLUE = "\033[1;34m";
